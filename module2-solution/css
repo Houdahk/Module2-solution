@@ -85,7 +85,7 @@
 
      }
 
-     .paragraph{
+     .paragraph {
      padding: 5px;
      height: 150px;
      margin:0px;
