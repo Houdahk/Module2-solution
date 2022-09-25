@@ -86,7 +86,7 @@ section {
 
  .paragraph {
      padding: 5px;
-     height: 200px;
+     height: 150px;
      margin:0px;
      font-family: sans-serif;
      over-flow: auto;
