@@ -4,7 +4,6 @@
 <html>
 <head>
    <meta Charset="UTF-8">
-   <meta name="viewport" content="width=device-width", initial-scale="1">
    <link rel="stylesheet" href= "style.css">
    <title> module2 solution houda </title>
   
@@ -43,12 +42,12 @@
 
           <section class= "col-lg-4 col-md-12 col-sm-12">
 
-        <div> 
-        	    <p class="sushi"> Sushi </p> 
-              <p class="paragraph"> 
-              Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, 
-              le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. 
-              Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.</p> 
+                 <div> 
+        	           <p class="sushi"> Sushi </p> 
+                    <p class="paragraph"> 
+                    Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, 
+                    le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. 
+                    Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.</p> 
 
 
             </div>
