@@ -5,7 +5,7 @@
 
 
 
-    h1 {
+ h1 {
      margin-bottom: 40px;
      text-align: center;
      font-family: sans-serif;
@@ -14,20 +14,20 @@
      font-weight: bold;
       }
        
-    section {
+ section {
      position: relative;
      padding: 15px;
      width: 100%;
      }
     
 
-    p {
+ p {
      position: relative;
      clear: right;
 
      }
 
-    div {
+ div {
 
      position: relative;
      margin-right: auto;
@@ -39,7 +39,7 @@
   
      }
     
-     .chiken { 
+.chiken { 
 
      float: right;
      color: yellow;
@@ -55,7 +55,7 @@
       }
  
 
-     .beef {
+.beef {
  
      float: right;
      color: white;
@@ -70,7 +70,7 @@
  
      }
 
-     .sushi {
+.sushi {
  
      float: right;
      color: black;
@@ -85,7 +85,7 @@
 
      }
 
-     .paragraph{
+.paragraph{
      padding: 5px;
      height: 150px;
      margin:0px;
@@ -96,7 +96,7 @@
 
 
 
-   /*desktop view*/
+ /*desktop view*/
 
    @media (min-width: 992px) {
        .col-lg-4 {
@@ -108,9 +108,8 @@
       } 
      } 
 
-   /* tablet view */
-
-   @media (min-width: 768px) and (max-width: 991px) {
+ /* tablet view */
+     @media (min-width: 768px) and (max-width: 991px) {
         .col-md-6 {
         float:left;
         width: 50%;   
@@ -130,7 +129,7 @@
          
 
 
-     /* mobile view*/  
+/* mobile view*/  
     @media (max-width: 767px) {
         .col-sm-12 {
             float: left;
